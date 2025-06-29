@@ -4,7 +4,7 @@ This project completes the Rearc Data Engineering Quest as described in the READ
 Part 1 & 2
 Fetched BLS Productivity and Costs data (pr.data.1.AllData.txt and pr.series.txt) from the given endpoint.
 
-Uploaded the data to my S3 bucket: s3://rearc-quest-bucket-abhijaya-2025/.
+Uploaded the data to my S3 bucket: [s3://rearc-quest-bucket-abhijaya-2025/](https://eu-north-1.console.aws.amazon.com/s3/buckets/rearc-quest-bucket-abhijaya-2025?region=eu-north-1&bucketType=general&tab=objects).
 
 Converted and uploaded the population.json file to the same bucket.
 
